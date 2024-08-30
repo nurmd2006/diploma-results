@@ -1,0 +1,1 @@
+<iframe style="border:1px #FFFFFF none" src="http://180.211.162.102:8444/result_arch/index.php" title="Diploma Results (BTEB) | Author: NUR MOHAMMAD" width="100%" height="600px" scrolling="yes" frameborder="no" allow="fullscreen"></iframe>
