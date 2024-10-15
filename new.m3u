@@ -2,7 +2,6 @@
 
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" group-title="JagoBD",Asian TV
 https://mtlivestream.com/asian/ytlive/index.m3u8
-
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x91288" group-title="JagoBD",ATN Bangla
 https://app.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8
 
@@ -16,11 +15,11 @@ https://app.jagobd.com.bd/live-orgin/atnmusic.stream/playlist.m3u8
 https://app.jagobd.com.bd/live-orgin/atnws-sg.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x91288" group-title="JagoBD",Banglavision
 https://app.jagobd.com.bd/live-orgin/banglav000.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.freekaj.com/assets/images/stock/image/2024/01/14/65a42cff0b32f1705258239.jpg" group-title="JagoBD",Bijoy TV
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg" group-title="JagoBD",Bijoy TV
 https://app.jagobd.com.bd/live-orgin/bijoy00.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png?20211012080238" group-title="JagoBD",Boishakhi
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" group-title="JagoBD",Boishakhi
 https://app.jagobd.com.bd/live-orgin/boishakhitv-org.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_banner%2F1677040441406_BTVslider.png&w=2048&q=75" group-title="JagoBD",BTV World
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="JagoBD",BTV World
 https://app.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" group-title="JagoBD",Channel 9
 https://app.jagobd.com.bd/live-orgin/channel9hd.stream/playlist.m3u8
@@ -37,7 +36,7 @@ https://app.jagobd.com.bd/live-orgin/ekattor.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhuHJR0tzeTyoc6XnWJgNddJWkmt5y0spfHw&s" group-title="JagoBD",Ekushey TV
 https://app.jagobd.com.bd/live-orgin/ekusheytv-8-org.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a438c05aadb1705261248.jpg" group-title="JagoBD",Gaan Bangla
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/gaanbangla.jpg?x91288" group-title="JagoBD",Gaan Bangla
 https://app.jagobd.com.bd/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4rRUPW-SvyissIGBlHtLEToOitnE-j-T1AA&s" group-title="JagoBD",My TV
@@ -69,14 +68,6 @@ https://app.jagobd.com.bd/live-orgin/aljazeera.stream/playlist.m3u8
 #EXTINF:-1 group-title="DATA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",DW News
 https://app.jagobd.com.bd/live-orgin/dwnews.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="DATA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/10/CGTN.png",CGTN
-https://app.jagobd.com.bd/live-orgin/cgtn.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="DATA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/10/CGTN_Doc.png",CGTN Documentary
-https://app.jagobd.com.bd/live-orgin/cgtndoc.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="DATA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg",Colosal TV
-https://app.jagobd.com.bd/live-orgin/colosal.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="JagoBD",Makkah Live
 https://app.jagobd.com.bd/live-orgin/makkah.stream/playlist.m3u8
@@ -118,8 +109,6 @@ https://app.jagobd.com.bd/live-orgin/iontvuk.stream/playlist.m3u8
 
 
 
-
-
 #EXTINF:-1 group-title="DATA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBEkbno6_s0UWgUukz0Emqvnj4iVWlvl9yow&s",CHANNEL S
 https://app.jagobd.com.bd/live-orgin/channels.stream/playlist.m3u8
 
@@ -151,7 +140,15 @@ https://app.jagobd.com.bd/live-orgin/cb24.stream/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="DATA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg",Colosal TV
+https://app.jagobd.com.bd/live-orgin/colosal.stream/playlist.m3u8
 
+
+#EXTINF:-1 group-title="DATA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/10/CGTN.png",CGTN
+https://app.jagobd.com.bd/live-orgin/cgtn.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="DATA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/10/CGTN_Doc.png",CGTN Documentary
+https://app.jagobd.com.bd/live-orgin/cgtndoc.stream/playlist.m3u8
 
 
 
