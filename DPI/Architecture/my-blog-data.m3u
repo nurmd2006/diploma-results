@@ -209,8 +209,6 @@ https://weblive.nandansyst.com/hls/nandan_src/index.m3u8
 #EXTINF:-1 group-title="nurmd2006" tvg-logo="https://www.tvoneuk.tv/wp-content/uploads/2021/06/TV-One-Logo-with-Sky.png",TV ONE
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/live-orgin/tvoneuksni.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://vokta.tv/wp-content/uploads/2024/05/307916533_100191212863824_5917833510799536868_n-1536x865.jpg",VOKTA TV
-https://vokta.raytahost.com/live/voktatv/chunklist_w569362958.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="nurmd2006", Ekhon TV
@@ -323,24 +321,11 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 
  
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.60c34221ff7d534aaf1b1377afd16793?rik=ONANrS2P1%2bcj1w&riu=http%3a%2f%2fwww.828i.com%2ffile%2fallimg%2f221023%2f1-221023122935O0.jpg&ehk=IVIxPv8pGf7918qxKKT56hENypuYCuQzUyzAQPFUy2Y%3d&risl=&pid=ImgRaw&r=0" group-title="nurmd2006", MTA6 Asia
-https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2pWPzQCMneqFi4OejoXK5_Vlvct7Gz3Q0zZproejxbk0ArqdYaGobzgl7&s=10" group-title="nurmd2006", beIN sports Xtra 
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6rFhGnBXMkSdByI2fOWbNQx9Z8dJBN-cz1qfXM_IfB1wcm9FltUbAMUM&s=10" group-title="nurmd2006", 360 Cricket
-https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-55ed6f9cb6d64b22a5eed2ea3f349533/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP0BVpDBIy4qnh4MXwwrIZFRGqzsj185_hiQ&usqp=CAU" group-title="nurmd2006", FL sports
+#EXTINF:-1 tvg-logo="https://flsport.gy/wp-content/uploads/2023/05/cropped-FL-SPORT-1-2048x586.png" group-title="nurmd2006", FL sports
 https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I_gjgaJYlqDQGjAj96xh8S-5GZe_CZQK3w&usqp=CAU" group-title="nurmd2006", Redbull TV
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2020/09/red-bull-logo.png" group-title="nurmd2006", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
@@ -565,7 +550,7 @@ https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8 
 
 
-#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://ia904605.us.archive.org/3/items/republic-bangla/images__1_-removebg-preview.png",REPUBLIC BANGLA 
+#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/12/Republic-Bangla-AMP-Logo.jpg",REPUBLIC BANGLA 
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8 
 
 
@@ -594,9 +579,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY3wla0dHI7WhriRZhlZIu_SKmwAtVUM0hxg&usqp=CAU" group-title="nurmd2006", Noor TV
-https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-
 
 
 
@@ -614,30 +596,25 @@ https://livetranscode.com/Minimax/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN1kIXYrV3TJq8ds-4c7eOxRq9ngNIPzzE-EYtQt3HGiytPl-vOG6I3MUSXr8ccKoTxqu5auaSW6mL9VdkTWB9CBfHUrl2XTKXCgLggEZ2_RbSes_5Bf7R-rEYbWpCX_a9-AUMFECRPzzmN7-IedniaFqG-AtC8zlKvW2YHLplSpKqUvy4S_95WY3gHw/s1080/Screenshot_20241214-103403.png" group-title="nurmd2006", KIDS FLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2hvLR05/Beani-Kids.png" group-title="nurmd2006", Beani Kids
-https://streams.sofast.tv/ptnr-yupptv/title-BEANI-KIDS-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ae504cae-b81f-49e6-8b40-71d7c0843589/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy15tEFePYQeCrh2Qhgq5SKECDCg-E2ay7rs0wMfpFDtjvhTbOD5D33SG&s=10" group-title="nurmd2006", TOON GOOGLE
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 
 
 #EXTINF:-1 group-title="nurmd2006" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926685888.png",Colors Bangla
 http://xsmarters.top:8080/live/0966717777/0966717777/245895.m3u8
 
-#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/DD-National_2022.png/revision/latest?cb=20230610222358",DD NATIONAL
+#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png",DD NATIONAL
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 
-#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://i.ibb.co/HDNQRPp/IMG-20240126-102111.png",Fifa Plus
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
+
 
 #EXTINF:-1 group-title="nurmd2006" tvg-logo="https://i.postimg.cc/CLc9yjH1/512px-Tennis-Channel-logo-svg.png", Tennis Channel UK
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://i.postimg.cc/T2QjGj5C/20240825_080044.png",Zee Aflam
+#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Zee_Aflam_Logo_2017.jpg/revision/latest?cb=20240917142045",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 
-#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://i.postimg.cc/KvzPYKnF/20240825_080124.png",Zee One
+#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://static.wixstatic.com/media/fa3bde_f2db8db03ddc439ab86185bd3e956f83~mv2.png/v1/fill/w_800,h_457,al_c,q_90,enc_auto/fa3bde_f2db8db03ddc439ab86185bd3e956f83~mv2.png",Zee One
 https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8
 
 
@@ -667,8 +644,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 #EXTINF:-1 group-title="nurmd2006" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png",BBC WORLD NEWS ASIA
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 group-title="nurmd2006",CNN News 18
-https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+
 #EXTINF:-1 group-title="nurmd2006" tvg-logo="https://i.postimg.cc/q7HXJQH8/Zee-Bangla-HD.png",DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
@@ -678,5 +654,4 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_2M.m3u
 #EXTINF:-1 group-title="nurmd2006" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/1200px-TRT_World.svg.png",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://sunplex.net/iptv/logo/bbc-earth.jpg",BBC EARTH HD
-http://119.156.26.155:8000/play/a07c/index.m3u8
+
