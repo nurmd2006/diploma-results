@@ -498,7 +498,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:-1 group-title="nurmd2006" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png",SONY PIX HD
-http://212.102.34.8:9080/SonyPixHD/video.m3u8
+https://fredflix.fun/a/rajpondit/tf/live.php?cid=sonyaath&chunks=b16df207b39a80b5abadaf4b83a4652f141ce4a4c54f341ec910eb399343e0a0bbf30f0c78dc9e5226523caadff5098d08cac65cb9427a13b1f91db25c28ff249f1d3fc332eaab2c1e664c25037bbd3110ecb0862beb7b9cc54a56b0e1a269dd
 
 #EXTINF:-1 group-title="nurmd2006" tvg-logo="https://i.ibb.co/vZXSqf0/20240816-214223.png",BHEJPURI CINEMA
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
