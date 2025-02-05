@@ -6,7 +6,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 
 
-
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/btv-news-.jpg" group-title="nurmd2006", BTV News 
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 
 
 
@@ -111,7 +112,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" group-title="nurmd2006", Boishakhi TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" group-title="nurmd2006", BanglaVision HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8
@@ -122,9 +123,12 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel25usa.stream/live-orgin/channel25usa.stream/chunks.m3u8
 
+#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png",Bijoy TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMx9TcHX/images-1.jpg" group-title="nurmd2006", MyTV HD 
-https://mytvbangla.com/0.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/WhatsApp-Image-2025-01-20-at-18.12.06_400fa1d5.jpg" group-title="nurmd2006", Green Bangla TV 
@@ -243,11 +247,11 @@ https://app.ncare.live/live-orgin/cha1.stream/live-orgin/cha1.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" group-title="nurmd2006", T Sports HD
-http://103.96.235.18:8080/sports1/index.m3u8
+https://cric.moviesflixter.com/stream.php?stream=https://live-cdn.tsports.com/live-01/master_720.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" group-title="nurmd2006", T Sports SD
-https://live.tsports.com/live-02/index.m3u8
+https://cric.moviesflixter.com/stream.php?stream=https://live-cdn.tsports.com/live-02/master_720.m3u8
 
 #EXTINF:-1 group-title="nurmd2006" tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png",MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -453,7 +457,7 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 
 #EXTINF:-1 group-title="nurmd2006" tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png",SONY AATH SD
-https://tv.cloudcdn.online/live/00:1A:79:A4:26:62/4280/44150.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
 
 
 
@@ -641,7 +645,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTINF:-1 group-title="nurmd2006" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png",BBC WORLD NEWS ASIA
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
-#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://i.postimg.cc/q7HXJQH8/Zee-Bangla-HD.png",DW NEWS
+#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 group-title="nurmd2006" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/800px-NHK_World.svg.png",NHK WORLD JAPAN
@@ -650,22 +654,36 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_2M.m3u
 #EXTINF:-1 group-title="nurmd2006" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/1200px-TRT_World.svg.png",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey
-https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
-#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",Nick Junior
-https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd
-#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
-https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
-#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
-https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
-#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD Plus
-https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
-#EXTINF:-1 group-title="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",Comedy Central HD
-https://livevoot-i.akamaihd.net/dash/live/876250/comedycentral/master.mpd
-#EXTINF:-1 group-title="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
-https://livevoot-i.akamaihd.net/dash/live/876252/colorsinfinity/master.mpd
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/8UG9dAT.png",Aaj Tak
-http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/dim.png",DIM TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dimtv.stream/live-orgin/dimtv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://i.ibb.co.com/VLQR5d6/images-4.jpg",Bangla TV Europe 
+https://cdn.ghuddi.live/tvapp/Bangla_TV_EU/playlist.m3u8
+
+#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://i.ibb.co.com/tHxZwNx/channels4-profile-14.jpg",Bangla Jago
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+
+#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",Deshe Bideshi
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshebideshe.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/380px-Star_Jalsha_logo_2023.png", Star Jalsha HD
+
+http://humsab.xyz/IN_JALSHAS/index.m3u8
+
+#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_528,h_297,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/channel_list/1170x6587bc331e21a16450c853bffefb8844e21.png", Zee Bangla 
+http://humsab.xyz/IN_ZEBS/index.m3u8
+
+#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/464782504_9060838573949723_3077012049101175651_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0b6b33&_nc_eui2=AeHJPqG01yY3UZR02lKsxZ3cdVYeXZGkdiF1Vh5dkaR2IWg2mhIaWocjWh4vFvU0VEat99pIHO17WE6d8L5UW8f5&_nc_ohc=RpCCA92BfSoQ7kNvgFfN1ji&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&_nc_gid=A0qYWmcUKz3ryQ4U4bltEqw&oh=00_AYDqmiDGU3UwT7_QEjP_sA5RV6NjhLwENWY9VyWKyx5pyw&oe=67A88AA1", Jalsha Movies HD
+http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
+
+#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F641%2Flogo%2F240x240%2Fmobile_logo_440775001666782769.png&w=256&q=75", Sony Max HD
+http://humsab.xyz/IN_SonyMaxHD/index.m3u8
+
+#EXTINF:-1 group-title="nurmd2006" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rdcmovies.png",RDCMOVIES
+https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
+
+
 
 
 
