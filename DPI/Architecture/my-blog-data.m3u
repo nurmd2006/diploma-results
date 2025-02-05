@@ -650,4 +650,22 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_2M.m3u
 #EXTINF:-1 group-title="nurmd2006" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/1200px-TRT_World.svg.png",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey
+https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
+#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",Nick Junior
+https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd
+#EXTINF:-1 group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
+https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
+https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
+#EXTINF:-1 group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD Plus
+https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
+#EXTINF:-1 group-title="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",Comedy Central HD
+https://livevoot-i.akamaihd.net/dash/live/876250/comedycentral/master.mpd
+#EXTINF:-1 group-title="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
+https://livevoot-i.akamaihd.net/dash/live/876252/colorsinfinity/master.mpd
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/8UG9dAT.png",Aaj Tak
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+
+
 
