@@ -211,6 +211,17 @@ https://tf.kyni.us/live.php?cid=sony_sports_2_hd&segment=8cdaca7aa6c2529ea0fc7ef
 https://tf.kyni.us/live.php?cid=sony_sports_5_hd&segment=8cdaca7aa6c2529ea0fc7ef5292e5d41375a55f9d045b65b6843ffab2de0813f182c31b3c857455128f537b93e26d2df
 #EXTINF:-1 tvg-logo="https://imotv.online/assets/images/Redbull%20TV1734518885.png" group-title="Sports", RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/IFgAG_o_AdtX4IauErKIzuFGCj0m4QyH81Q1Uq8H-2Si9ul3vmXkLihDUnn6-QI3xiMZech0AQ=s900-c-k-c0x00ffffff-no-rj" group-title="Sports", T Sports HD
+http://link.luckonline.eu/live/0c:89:10:e8:1c:d4/869/1142.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Movies", B4U Kadak
+https://cdn-2.pishow.tv/live/227/master.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="Sciences", Discovery
+http://45.148.145.57/IN_DiscoveryFhd/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://imotv.online/assets/images/B4U%20Music%20VIP1734524209.png" group-title="Music", B4U Music
 https://tf.kyni.us/live.php?cid=b4u_music&segment=b2c8618e70b0b0dc0e7c096ac119678233310cfb57e06d2a132e6dd5584a7515eb813a8c2a4380f156e403865560294e
 #EXTINF:-1 tvg-logo="https://imotv.online/assets/images/B4U%20Movies%20VIP1734524121.png" group-title="Movies", B4U Movies
