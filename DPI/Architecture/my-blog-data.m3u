@@ -489,6 +489,47 @@ http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/T%20Sports1734515068.png" group-title="Sports", T Sports
+https://t.kyni.us/jadu/jadoo.php?id=t_sports
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/Sony%20Ten%201%20HD1734516350.png" group-title="Sports", Sony Sports 1
+https://tf.kyni.us/live.php?cid=sony_sports_1_hd&chunks=03d3a567f73f71efbba28aeea0745f4bd1b61a814c89f43dd899e949d2b418f3c95ce1ceb4b45942fb3220ae764ca5f0671ad3202af00ca3502183c699e5b2f57a823db3e965e46de744679a66044c4a7bd5329afe68831015a37dc45b2bb553b254b9e519e229301bcc1b6a9e740641
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/Sony%20Ten%202%20HD1734516439.png" group-title="Sports", Sony Sports 2
+https://tf.kyni.us/live.php?cid=sony_sports_2_hd&segment=8cdaca7aa6c2529ea0fc7ef5292e5d41393d12f52689518dffd9c61bcda8e70ab34d454c574cfc3c7b47b07802ce4a1d
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/Sony%20Ten%205%20HD1734516572.png" group-title="Sports", Sony Sports 5
+https://tf.kyni.us/live.php?cid=sony_sports_5_hd&segment=8cdaca7aa6c2529ea0fc7ef5292e5d41375a55f9d045b65b6843ffab2de0813f182c31b3c857455128f537b93e26d2df
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/Redbull%20TV1734518885.png" group-title="Sports", RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/B4U%20Music%20VIP1734524209.png" group-title="Music", B4U Music
+https://tf.kyni.us/live.php?cid=b4u_music&segment=b2c8618e70b0b0dc0e7c096ac119678233310cfb57e06d2a132e6dd5584a7515eb813a8c2a4380f156e403865560294e
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/B4U%20Movies%20VIP1734524121.png" group-title="Movies", B4U Movies
+https://tf.kyni.us/live.php?cid=b4u_movies&segment=31de00f3a4f15c1099da59946b0ed81ad38402362b90801d304e9c93eddb11fc416f82d3e2b83bf484c022fdf86375f9
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/Zee%20Cinema%20HD1734524464.png" group-title="Movies", Zee Cinema
+https://t.kyni.us/jadu/jadoo.php?id=zee_cinema_hd
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/SONY%20MAX%202%20VIP1734524163.png" group-title="Movies", Sony Max 2
+https://tf.kyni.us/live.php?cid=sonymax_2&segment=6816171b541dce3c85263d15c3776654e08c084a70f7795686255eb2fb1bb82f24df551823ccb0af76d6cc30bfee220d
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/SONY%20MAX%20VIP1734524034.png" group-title="Movies", Sony Max
+https://tf.kyni.us/live.php?cid=sony_max&segment=fa40d88a47b38b8f94f234ff34af55a6a0971396baf69bb4db6bc7ac454a9792dd1be026b4a49d3827a8098ec6e7ee82
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/SONY%20MAX%20HD%20VIP1734523991.png" group-title="Movies", Sony Max HD
+https://tf.kyni.us/live.php?cid=sony_max_hd&segment=50fedb6c790257f951c00dbebdf79e1b998abef16503ae9bb3fdcf960e7467f17a9bcdf289cf5c6b9feb11b91b685db0
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/SONY%20PIX%20HD%20VIP1734524071.png" group-title="Movies", Sony Pix HD
+https://tf.kyni.us/live.php?cid=sonypix_hd&segment=cdf951cd0f9df803c2d7b0ac3d2e7f4fd6117fc9acb3508f91b69fdc1c33dd7c7b117ad5698aa9ced4daea9c56fe3fa5
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/SONY%20ENTERTAINMENT%20TELEVISION%20HD1734523800.png" group-title="Entertainment", Sony TV HD
+https://tf.kyni.us/live.php?cid=sonyentertainmnt_hd&segment=2f282f774c570127fd059f29e79a1c9cf7367f959a8d89215037e3cdb606821613e126262bf3a20686a6b2969fcad2f9
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/SONY%20YAY%20VIP1734524250.png" group-title="Kids", Sony YAY
+https://tf.kyni.us/live.php?cid=sonyyay&segment=8c570317f5cb3d8816a0ee1f1e670ed5e22345ed9f9ce4454f51b66c71cb8ccc00525287d7770e3e290dbaa24dc089d9
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/Sony%20AATH1734523252.png" group-title="Kids", Sony Aath
+https://tf.kyni.us/live.php?cid=sonyaath&chunks=af09bcec791cc3d33db6876b01510f11836735090d3fc02bd60ad89571160ea55dd1dddae1368c41c69d435df8a5dbe68004ca233df5cf010a7e6118c9099a808e416e650930f59ab0b9dc976fef1a82
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/Cartoon%20Network%20HD1734525041.png" group-title="Kids", Cartoon Network HD+
+https://tf.kyni.us/live.php?cid=cartoon_network_hd&segment=a42d0353a3a7892a0a35b23868f70e194ede7473fc4c40719831e134cd06bdd624649463d53969de20e160438454ef8f
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/Pogo1734525246.png" group-title="Kids", Pogo TV
+https://tf.kyni.us/live.php?cid=pogo_sd&segment=8ae4017d980cf1413289c2d9e78139028eaaf7b988d55372b47e3f3bfa116cc0aca4da8b5ba771ea6fda22c13738cbfe
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/Zee%20Bangla%20HD1734522890.png" group-title="Drama", Zee Bangla
+https://t.kyni.us/jadu/jadoo.php?id=zee_bangla
+
+
+
+
+
 #EXTINF:-1 group-title="nurmd2006" tvg-logo="https://i.ibb.co.com/f033jXb/download-5.jpg",SANANDA TV
 http://54.38.79.60:2020/sananda/index.m3u8
 
